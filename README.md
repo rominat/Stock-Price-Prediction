@@ -9,6 +9,6 @@ The Coca-Cola Company is a beverage corporation that produces, advertises, and d
 </div>
 
 ## Why Long Short-Term Memory (LSTM)?
-LSTM is a type of Recurrent Neural Network (RNN). RNNs are great at capturing long term dependecies in sequential data and that makes them a great choice for time-series data, such as natural language processing, speech recognition, and, as in this case, stock market prediction.
+LSTM is a type of Recurrent Neural Network (RNN). RNNs are great at capturing long term dependencies in sequential data and that makes them a great choice for time-series data, such as natural language processing, speech recognition, and, as in this case, stock market prediction.
 
 
